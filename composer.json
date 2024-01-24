@@ -1,0 +1,19 @@
+{
+    "name": "angel/framework_artisan_php",
+    "description": "project basic framework",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        },
+        "files":[
+            "app/helpers.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Angelgomz",
+            "email": "angelgomz14@gmail.com"
+        }
+    ],
+    "require": {}
+}
